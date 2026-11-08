@@ -92,7 +92,7 @@ habit-tracker/
 ### 1. Clone or unzip the project
 
 ```bash
-cd habit-tracker
+cd habit-tracker-mern
 ```
 
 ### 2. Start the API server
